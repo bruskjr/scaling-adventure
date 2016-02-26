@@ -1,0 +1,6 @@
+# language setting
+language: ruby
+
+# version numbers, testing against two versions of node
+rvm:
+  - 2.2.3 # (current default)
